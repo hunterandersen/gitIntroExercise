@@ -1,0 +1,18 @@
+Call 1-800-PIZZA
+Decide on a kind of pizza
+	See if they have any specials
+Decide on the kind of toppings on the pizza
+Decide on the type of crust
+Decide on the type of sauce
+Decide the split toppings
+Decide on any extra toppings
+Decide on sides and/or drinks
+Give them my card info to pay for it
+Decide on delivery/takeout
+Ask them to deliver
+Provide the address
+Confirm the address
+Be awkward - ask delivery person to join for pizza
+"Thank you, that will be all"
+Wait for pizza
+Tip the driver after delivery
